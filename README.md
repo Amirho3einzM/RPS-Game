@@ -9,12 +9,12 @@ To play the game, follow these steps:
 
 1. Clone or download the repository onto your system:
     ```
-    git clone https://github.com/Amirho3einzM/rock-scissors-pepar-game.git
+    git clone https://github.com/Amirho3einzM/RPS-Game
     ```
 
 2. Navigate to the project directory:
     ```
-    cd rock-scissors-pepar-game
+    cd RPS-Game
     ```
 
 3. Run the game:
